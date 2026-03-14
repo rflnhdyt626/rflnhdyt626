@@ -52,9 +52,9 @@ Laravel • PHP • JavaScript • Tailwind CSS • MySQL
 
 ## 🤝 Connect With Me
 
-- 📧 Email: rafli.nurhidayat62@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rafli-nurhidayat-748466288/  
-- 📸 Instagram: https://instagram.com/raflinrh_
+- 📧 Email: rafli.nurhidayat62@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rafli-nurhidayat-748466288/
+- 📸 Instagram: [@raflinrh_](https://instagram.com/raflinrh_)
 
 ---
 
